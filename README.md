@@ -48,13 +48,13 @@ The demo runs entirely on the frontend using simulated data, while a **fully imp
 
 **User**
 
-Username: user
+Username: user ;
 Password: user
 
 
 **Admin**
 
-Username: admin
+Username: admin ;
 Password: admin
 
 ------------------------------------------------------------------------

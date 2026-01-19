@@ -6,7 +6,7 @@ This repository contains the **frontend demo version**, deployed using GitHub Pa
 The project is built to showcase frontend architecture, state handling, and data-driven UI behavior.
 
 **Live Demo:**  
-https://<chvrryrasber>.github.io/parking-app-demo/
+https://chvrryrasber.github.io/parking-app-demo/
 
 -----------------------------------------------------------------------------------
 

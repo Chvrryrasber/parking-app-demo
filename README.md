@@ -47,11 +47,13 @@ The demo runs entirely on the frontend using simulated data, while a **fully imp
 ### Demo Credentials
 
 **User**
+
 Username: user
 Password: user
 
 
 **Admin**
+
 Username: admin
 Password: admin
 
